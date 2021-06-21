@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
-    bucket = "hackathon-fiap-1dvp-12345"
+    bucket = "kcsolutionHackatonprojectte--581102906"
     key    = "state/hackaton-cicd-deploy"
-    region = "us-east-1"
+    region = "us-east-2"
   }
 }
