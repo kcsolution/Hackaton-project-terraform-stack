@@ -14,13 +14,13 @@
 # Hackaton-project-terraform-stack - Workspace
 
 - Execute o comando para listar
- #terraform workspace list
+ ##terraform workspace list
 
 - Execute o comando para criar
- #Terraform workpace new prod
+ ##Terraform workpace new prod
   
 - Executar o comando para selecionar
- #Terraform workpace select prod
+ ##Terraform workpace select prod
 
 # Hackaton-project-terraform-stack - Instance Profiles
 
