@@ -14,7 +14,7 @@
 # Hackaton-project-terraform-stack - Workspace
 
 - Execute o comando para listar
- ##terraform workspace list
+ --terraform workspace list
 
 - Execute o comando para criar
  ##Terraform workpace new prod
