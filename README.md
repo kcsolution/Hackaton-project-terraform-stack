@@ -30,3 +30,11 @@
 - Deletar profiles
  #aws iam delete-instance-profile --instance-profile-name XXXXX
 
+
+
+# Dentro do seu ambiente do cloud9 baixe todos os reposisórios de código para o projeto do hackaton:
+
+   - git clone https://github.com/vamperst/Hackaton-project-api-pipeline-stack.git
+   - git clone https://github.com/vamperst/Hackaton-project-slack-app.git
+   - git clone https://github.com/vamperst/Hackaton-project-slack-stack.git
+
